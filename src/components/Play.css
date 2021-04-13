@@ -1,0 +1,64 @@
+
+
+.stats-row{
+  margin:40px 0px 20px;
+  text-align: center;
+  justify-content: center;
+}
+.money-spent{
+   background-color: white;
+   color:black;
+   font-weight: bold;
+   font-size: 1.1rem;
+   padding:15px;
+   width:300px;
+   border-radius:3% ;
+   margin:auto;
+   
+}
+.money-left{
+    background-color: white;
+    color:black;
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding:15px;
+    width:300px;
+    border-radius:3% ;
+    margin:auto;
+    
+
+}
+
+.type-heading{
+    margin:20px 0px 20px;
+    font-size:1.5rem;
+    font-weight:bold;
+    font-style: italic;
+    color:rgb(0, 0, 0);
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom:150px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+tr:nth-child(odd) {
+  background-color: white;
+}
+
+.return-div{
+  margin:20px 0px 40px;
+  font-weight: bold;
+  font-size: 1.4rem;
+  font-style:italic;
+}

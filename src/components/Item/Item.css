@@ -1,0 +1,24 @@
+.item-outer-div{
+    background-color: aliceblue;
+    height:300px;
+    border-radius:4% ;
+    margin:10px 0px 10px;
+    box-shadow: 5px 5px #fd8585;
+}
+
+.item-name{
+    padding: 7px 8px 7px;
+}
+.item-price{
+    color:red;
+    padding: 7px 8px 7px;
+  
+}
+.item-button{
+    padding: 7px 8px 7px;
+   
+}
+.item-image{
+    border-top-left-radius: 4%;
+    border-top-right-radius: 4%;
+}
